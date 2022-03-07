@@ -21,5 +21,5 @@
 
 ***
 
-![Namikaze Family](https://media.discordapp.net/attachments/777918705098686465/813086521481232414/image0.jpg)
+![Namikaze Family](https://minato-namikaze.readthedocs.io/en/latest/assets/banner.jpg)
 
