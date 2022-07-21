@@ -2,8 +2,10 @@
 
 ### Konichiwa 👋, myself Minato Namikaze, Konohagakure Yondaime Hokage. I do every work of a Hokage in a swift and clean way ⚡
 
-
-[![Owner](https://api.discordlist.space/v2/bots/935242576343224352/badge?property=owner&style=for-the-badge&color=orange)](http://discord.com/users/887549958931247137) [![Status](https://top.gg/api/widget/status/935242576343224352.svg)](http://discord.com/users/935242576343224352)  ![Servers](https://api.discordlist.space/v2/bots/935242576343224352/badge?property=servers&style=flat-square&color=informational) [![Support](https://api.discordlist.space/v2/bots/935242576343224352/badge?property=support&style=flat-square&color=yellow)](https://discord.gg/vfXHwS3nmQ) [![Documentation Status](https://readthedocs.org/projects/minato-namikaze/badge/?version=latest)](https://minato-namikaze.readthedocs.io/en/latest/?badge=latest)
+[![Owner](https://top.gg/api/widget/owner/935242576343224352.svg)](https://top.gg/bot/935242576343224352)
+ [![Status](https://top.gg/api/widget/status/935242576343224352.svg)](http://discord.com/users/935242576343224352)  [![Servers](https://top.gg/api/widget/servers/935242576343224352.svg)](https://top.gg/bot/935242576343224352)
+ [![Upvotes](https://top.gg/api/widget/upvotes/935242576343224352.svg)](https://top.gg/bot/935242576343224352)
+ [![Documentation Status](https://readthedocs.org/projects/minato-namikaze/badge/?version=latest)](https://minato-namikaze.readthedocs.io/en/latest/?badge=latest)
 
 
 ![image](https://i.imgur.com/FzgLCHM.jpeg)
@@ -22,5 +24,5 @@
 
 ***
 
-![Namikaze Family](https://minato-namikaze.readthedocs.io/en/latest/assets/banner.jpg)
+![Namikaze Family](https://minatonamikaze.dhruvashaw.me/en/latest/assets/banner.jpg)
 
