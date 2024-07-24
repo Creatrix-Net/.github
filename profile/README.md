@@ -1,28 +1,3 @@
-# **Minato Namikaze**
+**I, [Dhruva Shaw](https://dhruvashaw.in "Personal Portfolio"), have launched Creative नेट (Creative Net) to bring all my projects together under a single umbrella.** In the past, I've initiated various projects like [Minato Namikaze](https://minatonamikaze.dhruvashaw.in/ "Minato Namikaze Discord Bot"), [ShawDurgaPuja](https://github.com/Dhruvacube/shawdurgapuja "Github Repo of shawdurgapuja website"), and [fluxpoint.py](https://fluxpointpy.readthedocs.io/ "fluxpoint.py pakage"), but unfortunately, they eventually stalled due to the lack of a centralized organization.
 
-### Konichiwa 👋, myself Minato Namikaze, Konohagakure Yondaime Hokage. I do every work of a Hokage in a swift and clean way ⚡
-
-[![Owner](https://top.gg/api/widget/owner/935242576343224352.svg)](https://top.gg/bot/935242576343224352)
- [![Status](https://top.gg/api/widget/status/935242576343224352.svg)](http://discord.com/users/935242576343224352)  [![Servers](https://top.gg/api/widget/servers/935242576343224352.svg)](https://top.gg/bot/935242576343224352)
- [![Upvotes](https://top.gg/api/widget/upvotes/935242576343224352.svg)](https://top.gg/bot/935242576343224352)
- [![Documentation Status](https://readthedocs.org/projects/minato-namikaze/badge/?version=latest)](https://minato-namikaze.readthedocs.io/en/latest/?badge=latest)
-
-
-![image](https://i.imgur.com/FzgLCHM.jpeg)
-
-***
-
-## About Me
-
-**Minato Namikaze** (**波風ミナト**, Namikaze Minato) was the **Fourth Hokage** (**四代目火影**, Yondaime Hokage, literally meaning: Fourth Fire Shadow) of Konohagakure. He was renowned all over the world as **Konoha's Yellow Flash** (**木ノ葉の黄色い閃光**, Konoha no Kiiroi Senkō, English TV: Yellow Flash of the Leaf). He died during the Nine-Tailed Demon Fox's Attack, sacrificing his life to seal a part of the Nine-Tails into his newborn son, Naruto Uzumaki.
-
-
-## Get Started
-
-- [Invite Now ](https://discord.com/oauth2/authorize?client_id=935242576343224352&permissions=8&redirect_uri=https%3A%2F%2Fminatonamikaze-invites.herokuapp.com%2Finvite&scope=applications.commands%20bot&response_type=code&state=cube12345%3F%2FDiscord%20Bot%20List%20%28Description%29)
-- [Website](https://minato-namikaze.rtfd.io)
-
-***
-
-![Namikaze Family](https://minatonamikaze.dhruvashaw.me/en/latest/assets/banner.jpg)
-
+**Creative नेट aims to revive these exciting projects and propel them forward.** Our core focus is on generating research in robotics and automation, while also developing practical solutions (both hardware and software) to advance the field of robotics. Its registered in Udyam portal of GOI as a MSME.
